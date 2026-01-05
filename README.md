@@ -22,7 +22,7 @@
 
 ---
 
-## 👤 About Me
+## 👤 About Me.
 
 - 💼 **Role**: MERN Stack Developer  
 - 🌍 **From**: Bangladesh  
