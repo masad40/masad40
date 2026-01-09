@@ -30,7 +30,7 @@
 - 🎯 **Mission**: Build practical, high-quality applications and grow as a full-stack developer  
 - 🚀 **Focus Areas**: Clean architecture, maintainable code, and performance
 
----
+--
 
 ## 📞 Contact
 
