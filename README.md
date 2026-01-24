@@ -35,7 +35,7 @@
 ## 📞 Contact
 
 - 📧 **Email**: tasnifmasad40@gmail.com
-- 🌐 **Portfolio**: Coming soon — working on it!
+- 🌐 **Portfolio**: https://asaduzzaman-40.netlify.app/
 
 ---
 
