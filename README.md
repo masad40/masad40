@@ -89,7 +89,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats.
 
 <div>
   <table align="center" style="width:100%;">
